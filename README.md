@@ -24,6 +24,9 @@ def create_roi_mask(frame):
 ```python
 pip install yt-dlp
 
+# 원하는 유튜브 영상 다운로드, 여기 링크는 교수님이 주신 주행 영상
+!yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 https://www.youtube.com/watch?v=tEtWnGwwCEc
+
 def play_youtube_video(url, skip_frame=1):
   #유튜브 영상을 다운받아, 적당한 프레임씩 스킵해가며 재생하는 함수 만들기.
 ```
