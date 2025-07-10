@@ -1,6 +1,13 @@
 # 13일차
 
-## cv2 + canny + hough
+## (cv2 + canny) + hough 까지 추가된 예제 학습. 
+[예제 코드]()<br>
+챗 GPT를 이용해 맨 마지막 코드에 여러 기능을 추가해보았다.
+![image](https://github.com/user-attachments/assets/e9c21695-080c-4ffa-82ad-40b9c822e653)
+
+- 결과 동영상을 다운받도록 하고,
+- 차선인식까지 해내가는 여러 단계들을 각각 plot 해서 관찰할수 있도록 함.
+
 1. 어제짠 코드 설명, canny를 통과한 후의 이미지인 shape를 (width, height)로 쪼개서 이미지의 좌표를 편하게 사용하며 roi영역을 지정했다.
 ```python
 # ROI 설정 (도로 영역만 분석) - 좌표는 영상에 맞게 조정 필요
