@@ -5,7 +5,7 @@
 
 - (cv2 + canny) + hough 까지 추가된 예제 학습. 
 - 챗 GPT를 이용해 맨 마지막 코드에 여러 기능을 추가해보았다.
-- ![image](https://github.com/user-attachments/assets/e9c21695-080c-4ffa-82ad-40b9c822e653)
+  ![image](https://github.com/user-attachments/assets/e9c21695-080c-4ffa-82ad-40b9c822e653)
 
 1. 결과 동영상을 다운받도록 하고,
 2. 차선인식까지 해내가는 여러 단계들을 각각 plot 해서 관찰할수 있도록 함.
