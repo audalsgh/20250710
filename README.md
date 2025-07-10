@@ -5,7 +5,7 @@
 
 - (cv2 + canny) + hough 까지 추가된 예제 학습. 
 - 챗 GPT를 이용해 맨 마지막 코드에 여러 기능을 추가해보았다.
-- subplot(2, 4, 6) 까지 8개의 화면을 만들었지만, 7개만 표현했다. (+ plt.show() 직전에 plt.tight_layout()을 적어서 크기를 조절했다) 
+- subplot(2, 4, 7) 까지 8개의 화면을 만들었지만, 7개만 표현했다. (+ plt.show() 직전에 plt.tight_layout()을 적어서 크기를 조절했다) 
 
 ![image](https://github.com/user-attachments/assets/a27eab8f-69e9-4e40-aca1-d141b5e4616e)
 
