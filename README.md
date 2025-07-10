@@ -1,7 +1,7 @@
 # 13일차
 
 ## cv2 + canny + hough
-1. 어제짠 코드 설명, shape를 width, height로 쪼개서 이미지의 좌표를 편하게 사용하며 roi영역을 지정했다.
+1. 어제짠 코드 설명, canny를 통과한 후의 이미지인 shape를 (width, height)로 쪼개서 이미지의 좌표를 편하게 사용하며 roi영역을 지정했다.
 ```python
 # ROI 설정 (도로 영역만 분석) - 좌표는 영상에 맞게 조정 필요
 def create_roi_mask(frame):
