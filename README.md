@@ -7,7 +7,7 @@
 - 챗 GPT를 이용해 맨 마지막 코드에 여러 기능을 추가해보았다.
 - subplot(2, 3, 6) 까지 6개의 화면을 만들었고, plt.show() 직전에 plt.tight_layout()을 적어서 크기를 조절했다 
 
-![image](https://github.com/user-attachments/assets/1814ac22-6751-4679-b32f-796c2c7a4d64)
+![image](https://github.com/user-attachments/assets/3303cf0c-5585-4f56-b424-a78888828ac0)
 
 > 왼쪽 폴더에서 결과 동영상을 다운받도록 하고, 차선인식까지 해내가는 여러 단계들을 각각 plot 해서 관찰할수 있도록 함.
 
