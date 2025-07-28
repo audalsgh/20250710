@@ -1,4 +1,4 @@
-# 13일차
+# 14일차
 
 ## 유튜브 동영상을 colab에 다운받아, 차선인식하는 예제 학습.
 [예제 코드](0710_python_hough+youtube.ipynb)<br>
